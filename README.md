@@ -247,44 +247,57 @@ No mainStyle temos as seguintes definições:
 
 - .labelCampoMenor
 {
-	color: #000000;
+	`color: #000000;`
 }
 
 - .labelCriterioMensuravel
 {
-	color: #000000;
+	`color: #000000;`
 }
 
 - .linhaNotificacao
 {
-	color: #000000;
-	background-color: #dfc190;
+	`color: #000000;`
+	`background-color: #dfc190;`
 }
 
 - .toolbarInferior
 {
-	background-color: #F2DAAA;
-	color: #795A0B;
-	color: #000000;
-	border-top-width: 0px;
-	border-bottom: gray 1px solid;
-	border-right: gray 1px solid;
-	border-left: gray 1px solid;
+	`background-color: #F2DAAA;`
+	`color: #795A0B;`
+	`color: #000000;`
 }
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h2> Login. </h2>
 
+Trechos identificados no arquivo login.cs:
+
+- .foto-sophie {
+    `background-image: url('../Pictures/Main/sophie-new.png') !important;`
+    `background-repeat: no-repeat;`
+}
+
+- .btn-modal i.fa {
+    `color: #5bc0de;`
+    `background: white;`
+}
+
+- .bubble-ola {
+    /*Utilize a opção abaixo para alterar a cor do popup do site*/
+   `color: #f6efb8;`
+    `background-color: #e75b3a;`
+}
+
+- .botao:hover {
+        `background-color: #cccccc;`
+    }
+
+- .fundoProcessamento {
+    `background-color: #A2A2A2;`
+}
+
+
 <h3>frmLogin.aspx</h3>
 
+Agora falando sobre os trechos encontrados no arquivo 
