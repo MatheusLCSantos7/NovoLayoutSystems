@@ -245,13 +245,32 @@ No mainStyle temos as seguintes definições:
 	`background-color: #c0c0c0;`
 }
 
+- .labelCampoMenor
+{
+	color: #000000;
+}
 
+- .labelCriterioMensuravel
+{
+	color: #000000;
+}
 
+- .linhaNotificacao
+{
+	color: #000000;
+	background-color: #dfc190;
+}
 
-
-
-
-
+- .toolbarInferior
+{
+	background-color: #F2DAAA;
+	color: #795A0B;
+	color: #000000;
+	border-top-width: 0px;
+	border-bottom: gray 1px solid;
+	border-right: gray 1px solid;
+	border-left: gray 1px solid;
+}
 
 
 
