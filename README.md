@@ -16,7 +16,7 @@ No mainStyle temos as seguintes definições:
 }
 - .legenda
 {
-	`color: Black;`
+	`color: Black;
 }
 - .grid
 {
@@ -357,149 +357,149 @@ Agora falando sobre os trechos encontrados no arquivo principal.css
 
 - .linha
 {
-	color: #000000;
-	background-color: #f2daaa;
+	`color: #000000;`
+	`background-color: #f2daaa;`
 }
 
 - .linhaFrd
 {
-	color: #000000;
-	background-color: #f2daaa;
+	`color: #000000;`
+	`background-color: #f2daaa;`
 }
 
 - .linhaOver
 {
-	background-color: #DEBD7E;
+	`background-color: #DEBD7E;`
 }
 
 - .linhaSelection
 {
-	background-color: #daab60;
+	`background-color: #daab60;`
 }
 
 - .pager
 {
-	color: #c0c0c0;
-	background-color: #c0c0c0;
+	`color: #c0c0c0;`
+	`background-color: #c0c0c0;`
 }
 
 - .labelCampo
 {
-	color: #795A0B;
+	`color: #795A0B;`
 }
 
 - .labelComum
 {
-	color: #000000;
+	`color: #000000;`
 }
 
 - .labelMenu
 {
-	color: #990000;
+	`color: #990000;`
 }
 
 - .muralRecados
 {
-	background-color: #dfc190;	
+	`background-color: #dfc190;	`
 }
 
 - .cabecalhoRecados
 {
-	color: bisque;
+	`color: bisque;`
 }
 
 - .recados
 {
-	color: #000000;
+	`color: #000000;`
 }
 
 - .exclamacao
 {
 
-	color: #c4151b;
+	`color: #c4151b;`
 }
 
 - .campoDesabilitado
 {
-	background-color: #f5deb3;
+	`background-color: #f5deb3;`
 }
 
 - .campoDesabilitado
 {
-	background-color: #f5deb3;
+	`background-color: #f5deb3;`
 }
 
 - .toolBar
 {
-	background-color: #DEB887;
+	`background-color: #DEB887;`
 }
 
 - .diaPendente
 {
-	color: #ff0000;
+	`color: #ff0000;`
 }
 
 - .labelUnidade
 {
-	color: #990000;
+	`color: #990000;`
 }
 
 - .mensagemErro
 {
-	color: #cc0033;
+	`color: #cc0033;`
 }
 
 - .mensagemErro
 {
-	color: #cc0033;
+	`color: #cc0033;`
 }
 
 - .module
 {
-	color: black;
+	`color: black;`
 }
 
 - .linhaSelectionFrd
 {
-	background-color: #daab60;
+	`background-color: #daab60;`
 }
 
 - .painel
 {
-	border-color: #795A0B;
-	background-color: #debe94;
+	`border-color: #795A0B;`
+	`background-color: #debe94;`
 }
 
 - .checkbox
 {
-	color: #795A0B;
+	`color: #795A0B;`
 }
 
 - .mensagemErroMenor
 {
-	color: #cc0033;
+	`color: #cc0033;`
 }
 
 - .nodoPai
 {
-	color: Black;
+	`color: Black;`
 }
 
 - .toolbarInferior
 {
-	background-color: #F2DAAA;
-	color: #795A0B;
-	color: #000000;
+	`background-color: #F2DAAA;`
+	`color: #795A0B;`
+	`color: #000000;`
 }  
 
 - .fundoProcessamento
 {
-    background-color:#A2A2A2;
+    `background-color:#A2A2A2;`
 }
 
 - .modalPopupAjax
 {
-	background-color: #CA9733;
+	`background-color: #CA9733;`
 }
 
 
