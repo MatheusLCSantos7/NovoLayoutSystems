@@ -1,4 +1,4 @@
-<h3>Dados para o novo Lay</h3>
+<h3>Dados para o novo Layout</h3>
 
 O setor do comercial nos enviou como deverão ficar os estilos dos layouts
 
