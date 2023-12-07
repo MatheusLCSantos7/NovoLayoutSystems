@@ -1,7 +1,7 @@
 # NovoLayoutSystems
 Repositório para conteúdo relacionado a migração de Layout do sistema IHM Systems
 
-Caso você queira ver as cores que serão utilizadas para a migração basta clicar no link [Guia de estilo](https://github.com/MatheusLCSantos7/Links-Uteis/edit/main/README.md)
+Caso você queira ver as cores que serão utilizadas para a migração basta clicar no link [Guia de estilo](https://github.com/MatheusLCSantos7/NovoLayoutSystems/blob/main/GuiaDeEstilo.md)
 
 
 Os arquivos CSSs estão separados em uma pasta com nome "CSS" porém também existem TAGS de estilo isoladas nos códigos, irei separar em ambos tópicos citados. 
